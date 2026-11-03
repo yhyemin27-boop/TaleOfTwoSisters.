@@ -32,6 +32,10 @@ ItemGenerator\
 플레이어 - 1인칭 시점\
 조이스틱으로 움직이고 스와이프로 화면 회전(캐릭터 포함시켜서)\
 
+외부 에셋:\
+Little Ghost lowpoly(FREE)\
+kcisa - HWASEONG HAENGGUNG Korean Tradition Palace\
+
 
 
 
